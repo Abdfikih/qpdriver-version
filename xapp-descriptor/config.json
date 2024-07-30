@@ -5,9 +5,9 @@
     {
       "name": "qpdriver",
       "image": {
-        "registry": "nexus3.o-ran-sc.org:10002",
+        "registry": "127.0.0.1:5000",
         "name": "o-ran-sc/ric-app-qp-driver",
-        "tag": "1.1.0"
+        "tag": "latest"
       }
     }
   ],
